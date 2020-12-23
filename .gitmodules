@@ -1,0 +1,6 @@
+[submodule "trivia-server"]
+	path = trivia-server
+	url = https://github.com/insanesclub/trivia-server.git
+[submodule "trivia-mobile"]
+	path = trivia-mobile
+	url = https://github.com/insanesclub/trivia-mobile.git
