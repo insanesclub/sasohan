@@ -1,6 +1,6 @@
-[submodule "trivia-server"]
-	path = trivia-server
-	url = https://github.com/insanesclub/trivia-server.git
-[submodule "trivia-mobile"]
-	path = trivia-mobile
-	url = https://github.com/insanesclub/trivia-mobile.git
+[submodule "sasohan-server"]
+	path = sasohan-server
+	url = https://github.com/insanesclub/sasohan-server.git
+[submodule "sasohan-mobile"]
+	path = sasohan-mobile
+	url = https://github.com/insanesclub/sasohan-mobile.git
