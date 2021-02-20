@@ -1,9 +1,9 @@
 [submodule "sasohan-mobile"]
 	path = sasohan-mobile
 	url = https://github.com/insanesclub/sasohan-mobile.git
-[submodule "sasohan-core"]
-	path = sasohan-core
-	url = https://github.com/insanesclub/sasohan-core.git
+[submodule "sasohan-match"]
+	path = sasohan-match
+	url = https://github.com/insanesclub/sasohan-match.git
 [submodule "sasohan-chat"]
 	path = sasohan-chat
 	url = https://github.com/insanesclub/sasohan-chat.git
